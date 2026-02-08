@@ -1,4 +1,6 @@
 # Vanity Eth
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2FVanityEth.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2FVanityEth?ref=badge_shield)
+
 
 Nodejs based tool to generate vanity ethereum addresses
 
@@ -80,3 +82,7 @@ License
 
 MIT
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2FVanityEth.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2FVanityEth?ref=badge_large)
